@@ -15,12 +15,12 @@
 |章节|名称|课时|课件|
 |-:|:-|-:|:-|
 |第一课|计算机基本操作|1|[下载](https://home.firefoxchina.cn/)|
-|第二课|信息管理|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
-|第三课|DOS命令|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
-|第四课|思维导图|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
-|第五课|虚拟机|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
-|第六课|github|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
-|第七课|office|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
+|第二课|信息管理|1|[下载](https://home.firefoxchina.cn/)|
+|第三课|DOS命令|1|[下载](https://home.firefoxchina.cn/)|
+|第四课|思维导图|1|[下载](https://home.firefoxchina.cn/)|
+|第五课|虚拟机|1|[下载]((https://home.firefoxchina.cn/)|
+|第六课|github|1|[下载]((https://home.firefoxchina.cn/)|
+|第七课|office|1|[下载]((https://home.firefoxchina.cn/)|
 
 对我帮助很大的还有计算机导论，合理运用计算机课以对我们的生活提供极大便利，一个简单的代码就课以创造很大的价值
 
