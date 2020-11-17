@@ -21,7 +21,9 @@
 |第五课|虚拟机|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
 |第六课|github|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
 |第七课|office|1|[下载](C:\Users\wo\Documents\Tencent Files\2763114658\FileRecv)|
+
 对我帮助很大的还有计算机导论，合理运用计算机课以对我们的生活提供极大便利，一个简单的代码就课以创造很大的价值
+
 ```
 import random
 f = random.randint(2020012001,2020012100)
